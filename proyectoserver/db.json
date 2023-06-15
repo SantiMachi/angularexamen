@@ -1,0 +1,29 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "usuario": "John Doe",
+      "email": "john.due@gmail.com"
+    }
+  ],
+  "heroes": [
+    {
+      "id": "dc-batman",
+      "superhero": "Paciente 1",
+      "publisher": "Tipo 1",
+      "alter_ego": "enfermedad xxxxxxxxxx",
+      "first_appearance": "6",
+      "characters": "150",
+      "alt_img": "https://png.pngtree.com/element_our/20190602/ourlarge/pngtree-yellow-hammer-illustration-image_1396045.jpg"
+    },
+    {
+      "superhero": "abc",
+      "alter_ego": "sdasda",
+      "characters": "123123123",
+      "first_appearance": "2",
+      "publisher": "Tipo 2",
+      "alt_img": "https://sergioescobar.cl/wp-content/uploads/2022/08/changan-05.png",
+      "id": "LWbtCmp"
+    }
+  ]
+}
